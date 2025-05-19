@@ -1,0 +1,29 @@
+{
+  "name": "multitenant-config",
+  "version": "0.1.0",
+  "description": "Implements server and tenant configuration using encrypted .env environment variable files",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=dev nodemon index.js",
+    "test": "jest --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/multitenant-config.git"
+  },
+  "keywords": [
+    "multitenant",
+    "config",
+    "configuration",
+    "topsecret",
+    "encrypted",
+    "generate",
+    "key"
+  ],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/multitenant-config/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/multitenant-config#readme"
+}

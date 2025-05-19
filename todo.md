@@ -1,0 +1,1 @@
+1. add automatic generate of key, encrypt env files and decrypt env files to the index.js so that if the command line arguments --generate, --encrypt, or --decrypt are passed that the action is performed an the program is exited
